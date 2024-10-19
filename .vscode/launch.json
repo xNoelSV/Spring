@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-SpringbootWebApplication<springboot-web>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.noel.curso.springboot.webapp.springboot_web.SpringbootWebApplication",
+      "projectName": "springboot-web",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
