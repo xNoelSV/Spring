@@ -8,7 +8,7 @@
   <body>
     <h1 th:text="${title}">Listado de usuarios</h1>
     <div th:if="${users.isEmpty()}">No tiene elementos usuarios</div>
-    <table>
+    <table th:if="${!users.isEmpty()}">
       <thead>
         <tr>
           <th>Name</th>
