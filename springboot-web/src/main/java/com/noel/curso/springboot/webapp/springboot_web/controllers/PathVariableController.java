@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 @RequestMapping("/api/var")
 public class PathVariableController {
 
-  // ATRIBUTOS
+  // ATRIBUTOS DE CLASE
 
   @Value("${config.username}")
   private String username;
