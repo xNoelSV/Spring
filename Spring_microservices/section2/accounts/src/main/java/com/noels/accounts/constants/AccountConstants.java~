@@ -1,0 +1,8 @@
+package com.noels.accounts.constants;
+
+public class AccountConstants {
+
+    private AccountConstants() {}
+
+    
+}
