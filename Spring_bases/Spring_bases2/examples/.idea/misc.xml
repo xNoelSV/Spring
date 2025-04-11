@@ -4,19 +4,16 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/example1/pom.xml" />
-        <option value="$PROJECT_DIR$/example2/pom.xml" />
-        <option value="$PROJECT_DIR$/example3/pom.xml" />
-        <option value="$PROJECT_DIR$/example4/pom.xml" />
-        <option value="$PROJECT_DIR$/example5/pom.xml" />
-        <option value="$PROJECT_DIR$/example6/pom.xml" />
-        <option value="$PROJECT_DIR$/example7/pom.xml" />
+        <option value="$PROJECT_DIR$/Beans/example1/pom.xml" />
+        <option value="$PROJECT_DIR$/Beans/example2/pom.xml" />
+        <option value="$PROJECT_DIR$/Beans/example3/pom.xml" />
+        <option value="$PROJECT_DIR$/Beans/example4/pom.xml" />
+        <option value="$PROJECT_DIR$/Beans/example5/pom.xml" />
+        <option value="$PROJECT_DIR$/Beans/example6/pom.xml" />
+        <option value="$PROJECT_DIR$/Beans/example7/pom.xml" />
+        <option value="$PROJECT_DIR$/Beans/example8/pom.xml" />
+        <option value="$PROJECT_DIR$/AutoWiring/example9/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/example7/pom.xml" />
-      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="openjdk-24" project-jdk-type="JavaSDK">

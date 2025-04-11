@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e90dbbfa-a411-4f7b-8e06-af9b027ada20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AutoWiring/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/src/main/java/com/example/beans/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/src/main/java/com/example/beans/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/src/main/java/com/example/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/src/main/java/com/example/main/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beans/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1/src/main/java/com/example/main/Example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example2/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example2/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example2/src/main/java/com/example/main/Example2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example3/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example3/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example3/src/main/java/com/example/main/Example3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example4/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example4/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example4/src/main/java/com/example/main/Example4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example5/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example5/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example5/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example5/src/main/java/com/example/main/Example5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example6/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example6/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example6/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example6/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example6/src/main/java/com/example/main/Example6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring_microservices/section2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring_microservices/section2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring_microservices/section2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring_microservices/section2/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "xNoelSV"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/xNoelSV/Spring.git",
+    "accountId": "f8338c97-8b97-4f6e-b614-881e48805867"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "7fc15cff",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2vanHprXMCQHR649KzgaMvyeKf1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Example9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Universidad/Primero/Tercer_trimestre/EDA/Practica2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Cursos\Spring\Spring_bases\Spring_bases2\examples\AutoWiring" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e90dbbfa-a411-4f7b-8e06-af9b027ada20" name="Changes" comment="" />
+      <created>1744391968235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744391968235</updated>
+      <workItem from="1744391970834" duration="1274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
