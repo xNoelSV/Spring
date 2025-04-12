@@ -1,0 +1,48 @@
+package com.example.services;
+
+import com.example.interfaces.Speakers;
+import com.example.interfaces.Tyres;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
+
+@Component
+@Service
+// We implemented two types of Dependency Injection. 1. Field Injection 2. Setter Injection
+public class VehicleService {
+
+    @Autowired
+    private Speakers speakers;
+    private Tyres tyres;
+
+    /*@Autowired - WRONG
+    public VehicleService(MichellinTyres tyres, BoseSpeakers speakers) {
+        this.tyres = tyres;
+        this.speakers = speakers;
+    } */
+
+    public Speakers getSpeakers() {
+        return speakers;
+    }
+    public void setSpeakers(Speakers speakers) {
+        this.speakers = speakers;
+    }
+
+    public Tyres getTyres() {
+        return tyres;
+    }
+    @Autowired
+    public void setTyres(Tyres tyres) {
+        this.tyres = tyres;
+    }
+
+    public void makeSound() {
+        String prompt = speakers.makeSound();
+        System.out.println(prompt);
+    }
+
+    public void rotateTyres() {
+        String prompt = tyres.rotate();
+        System.out.println(prompt);
+    }
+}
