@@ -5,85 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e90dbbfa-a411-4f7b-8e06-af9b027ada20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AutoWiring/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/src/main/java/com/example/beans/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/src/main/java/com/example/beans/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/src/main/java/com/example/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoWiring/example9/src/main/java/com/example/main/Example9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beans/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example10/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example10/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example10/src/main/java/com/example/beans/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example10/src/main/java/com/example/beans/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example10/src/main/java/com/example/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example10/src/main/java/com/example/main/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example11/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example11/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example11/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example11/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example11/src/main/java/com/example/beans/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example11/src/main/java/com/example/beans/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example11/src/main/java/com/example/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example11/src/main/java/com/example/main/Example11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example12/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example12/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example12/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example12/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example12/src/main/java/com/example/beans/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example12/src/main/java/com/example/beans/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example12/src/main/java/com/example/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example12/src/main/java/com/example/main/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/src/main/java/com/example/beans/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/src/main/java/com/example/beans/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/src/main/java/com/example/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/src/main/java/com/example/implementation/BoseSpeakers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/src/main/java/com/example/implementation/BridgeStoneTyres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/src/main/java/com/example/implementation/MichellinTyres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/src/main/java/com/example/implementation/SonySpeakers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/src/main/java/com/example/interfaces/Speakers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/src/main/java/com/example/interfaces/Tyres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/src/main/java/com/example/main/Example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoWiring/example13/src/main/java/com/example/services/VehicleService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example1/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example1/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example1/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example1/src/main/java/com/example/main/Example1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example2/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example2/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example2/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example2/src/main/java/com/example/main/Example2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example3/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example3/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example3/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example3/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example3/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example3/src/main/java/com/example/main/Example3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example4/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example4/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example4/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example4/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example4/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example4/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example4/src/main/java/com/example/main/Example4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example5/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example5/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example5/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example5/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example5/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example5/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example5/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example5/src/main/java/com/example/main/Example5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example6/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example6/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example6/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example6/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example6/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example6/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example6/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example6/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example6/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example6/src/main/java/com/example/main/Example6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Spring_microservices/section2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring_microservices/section2/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Spring_microservices/section2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring_microservices/section2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoWiring/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/AutoWiring/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beans/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Beans/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +71,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -100,36 +79,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "xNoelSV"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xNoelSV&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/xNoelSV/Spring.git",
-    "accountId": "f8338c97-8b97-4f6e-b614-881e48805867"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/xNoelSV/Spring.git&quot;,
+    &quot;accountId&quot;: &quot;f8338c97-8b97-4f6e-b614-881e48805867&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "7fc15cff",
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;7fc15cff&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2vanHprXMCQHR649KzgaMvyeKf1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Example11.executor": "Run",
+    "Application.Example12.executor": "Run",
+    "Application.Example13.executor": "Run",
     "Application.Example9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Universidad/Primero/Tercer_trimestre/EDA/Practica2",
+    "last_opened_file_path": "C:/TODO/Programación/Cursos/Spring/Spring_bases/Spring_bases2/examples/AutoWiring/example13/pom.xml",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -143,6 +128,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\TODO\Programación\Cursos\Spring\Spring_bases\Spring_bases2\examples\AutoWiring" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Cursos\Spring\Spring_bases\Spring_bases2\examples\AutoWiring" />
     </key>
@@ -164,6 +152,9 @@
       <option name="presentableId" value="Default" />
       <updated>1744391968235</updated>
       <workItem from="1744391970834" duration="1274000" />
+      <workItem from="1744454337461" duration="83000" />
+      <workItem from="1744454438238" duration="32000" />
+      <workItem from="1744454518182" duration="6836000" />
     </task>
     <servers />
   </component>
