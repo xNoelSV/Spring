@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.xnoelsv</groupId>
-	<artifactId>example18</artifactId>
+	<artifactId>example19</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>example19</name>
 	<description>School Web Application</description>
