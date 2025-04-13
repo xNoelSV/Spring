@@ -22,12 +22,12 @@
         <module name="example5" />
         <module name="example17" />
         <module name="example4" />
-        <module name="example18" />
         <module name="example1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="example1 (1) (com.eazybytes)" target="21" />
+      <module name="example18" target="17" />
       <module name="example2 (1) (com.eazybytes)" target="21" />
       <module name="example3 (1) (com.eazybytes)" target="21" />
       <module name="example4 (1) (com.eazybytes)" target="21" />
