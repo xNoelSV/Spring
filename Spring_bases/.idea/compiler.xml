@@ -13,7 +13,6 @@
         <module name="example11" />
         <module name="example12" />
         <module name="example10" />
-        <module name="example17" />
         <module name="example7" />
         <module name="example6" />
         <module name="example9" />
@@ -21,7 +20,9 @@
         <module name="example3" />
         <module name="example2" />
         <module name="example5" />
+        <module name="example17" />
         <module name="example4" />
+        <module name="example18" />
         <module name="example1" />
       </profile>
     </annotationProcessing>
@@ -43,7 +44,6 @@
       <module name="example_15" target="21" />
       <module name="example_16" target="21" />
       <module name="example_17" target="21" />
-      <module name="example_18" target="21" />
       <module name="example_19" target="21" />
       <module name="example_20" target="21" />
       <module name="example_21" target="21" />
@@ -75,7 +75,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="example_18" options="-parameters" />
+      <module name="example18" options="-parameters" />
       <module name="example_19" options="-parameters" />
       <module name="example_20" options="-parameters" />
       <module name="example_21" options="-parameters" />
