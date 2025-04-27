@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -26,12 +27,14 @@
         <module name="example17" />
         <module name="example4" />
         <module name="example1" />
+        <module name="example21_2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="example1 (1) (com.eazybytes)" target="21" />
       <module name="example18" target="17" />
       <module name="example2 (1) (com.eazybytes)" target="21" />
+      <module name="example21 (1)" target="17" />
       <module name="example3 (1) (com.eazybytes)" target="21" />
       <module name="example4 (1) (com.eazybytes)" target="21" />
       <module name="example5 (1) (com.eazybytes)" target="21" />
@@ -82,6 +85,8 @@
       <module name="example19" options="-parameters" />
       <module name="example20" options="-parameters" />
       <module name="example21" options="-parameters" />
+      <module name="example21 (1)" options="-parameters" />
+      <module name="example21_2" options="-parameters" />
       <module name="example_19" options="-parameters" />
       <module name="example_20" options="-parameters" />
       <module name="example_21" options="-parameters" />
