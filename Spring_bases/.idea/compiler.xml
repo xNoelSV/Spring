@@ -10,9 +10,12 @@
         <module name="example15" />
         <module name="example16" />
         <module name="example13" />
+        <module name="example24" />
         <module name="example14" />
         <module name="example11" />
+        <module name="example22" />
         <module name="example12" />
+        <module name="example23" />
         <module name="example20" />
         <module name="example10" />
         <module name="example21" />
@@ -87,6 +90,9 @@
       <module name="example21" options="-parameters" />
       <module name="example21 (1)" options="-parameters" />
       <module name="example21_2" options="-parameters" />
+      <module name="example22" options="-parameters" />
+      <module name="example23" options="-parameters" />
+      <module name="example24" options="-parameters" />
       <module name="example_19" options="-parameters" />
       <module name="example_20" options="-parameters" />
       <module name="example_21" options="-parameters" />

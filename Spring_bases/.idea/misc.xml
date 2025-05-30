@@ -73,10 +73,13 @@
         <option value="$PROJECT_DIR$/6_Thymeleaf/example20/pom.xml" />
         <option value="$PROJECT_DIR$/6_Thymeleaf/example21/pom.xml" />
         <option value="$PROJECT_DIR$/7_Lombok/example21_2/pom.xml" />
+        <option value="$PROJECT_DIR$/8_QueryParams&amp;PathVariables/example22/pom.xml" />
+        <option value="$PROJECT_DIR$/8_QueryParams&amp;PathVariables/example23/pom.xml" />
+        <option value="$PROJECT_DIR$/9_Validators/example24/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="openjdk-24" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
