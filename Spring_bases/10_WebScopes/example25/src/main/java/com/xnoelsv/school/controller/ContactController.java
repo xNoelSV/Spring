@@ -57,6 +57,8 @@ public class ContactController {
             return "contact.html"; // Return to the contact page with validation errors
         }
         contactService.saveMessageDetails(contact);
+        contactService.setCouter(contactService.getCouter() + 1);
+        log.info("Message saved successfully. Total messages: {}", contactService.getCouter());
         return "redirect:/contact";
     }
 
