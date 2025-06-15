@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="example26" />
         <module name="example24" />
         <module name="example25" />
         <module name="example22" />
@@ -95,6 +96,7 @@
       <module name="example23" options="-parameters" />
       <module name="example24" options="-parameters" />
       <module name="example25" options="-parameters" />
+      <module name="example26" options="-parameters" />
       <module name="example_19" options="-parameters" />
       <module name="example_20" options="-parameters" />
       <module name="example_21" options="-parameters" />
