@@ -8,12 +8,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="example26" />
+        <module name="example27" />
         <module name="example24" />
         <module name="example25" />
         <module name="example22" />
         <module name="example23" />
         <module name="example20" />
         <module name="example21" />
+        <module name="example28" />
+        <module name="example29" />
+        <module name="example30" />
         <module name="example15" />
         <module name="example16" />
         <module name="example13" />
@@ -97,6 +101,10 @@
       <module name="example24" options="-parameters" />
       <module name="example25" options="-parameters" />
       <module name="example26" options="-parameters" />
+      <module name="example27" options="-parameters" />
+      <module name="example28" options="-parameters" />
+      <module name="example29" options="-parameters" />
+      <module name="example30" options="-parameters" />
       <module name="example_19" options="-parameters" />
       <module name="example_20" options="-parameters" />
       <module name="example_21" options="-parameters" />
