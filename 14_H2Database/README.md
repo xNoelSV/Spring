@@ -29,3 +29,7 @@ pom dependencies:
   \<groupId>org.springframework.boot\</groupId><br>
   \<artifactId>spring-boot-starter-jdbc\</artifactId><br>
   \</dependency>
+
+JDBC:
+- .update: Jdbc template update method is used to execute SQL statements that modify the database, such as INSERT, UPDATE, or DELETE operations. It returns the number of rows affected by the operation.
+- .query: Jdbc template query method is used to execute SQL SELECT statements that retrieve data from the database. It returns a list of results, which can be mapped to Java objects using a RowMapper.
