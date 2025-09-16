@@ -97,9 +97,14 @@ Each part has his own README.md with the most important topics of the section, t
 ├──12_ExceptionHandling
 ├──13_SpringSecurity_Part2
 ├──14_H2Database
-├──
-├──
-├──
+├──15_SpringData&DataAuditing
+├──16_CustomValidations
+├──17_OneToOne
+├──18_SpringSecurity_Part3
+├──19_OneToMany&ManyToOne
+├──20_ManyToMany
+├──21_SpringData_Sorting&Pagination
+├──22_SpringData_CustomQueries
 
 └── README.md
 ```
