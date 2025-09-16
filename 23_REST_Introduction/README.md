@@ -30,6 +30,11 @@ The parameters of these methods can be annotated with:
 - @RequestAttribute: Binds a method parameter to a request attribute.
 - @RequestEntity: Binds a method parameter to the entire HTTP request entity.
 
+Different approaches to consume Rest Services:
+- OpenFeign: A declarative web service client that simplifies the process of making HTTP requests to RESTful services.
+- RestTemplate: A synchronous client to perform HTTP requests, exposing a simple, template method API over underlying HTTP client libraries.
+- WebClient: A non-blocking, reactive client to perform HTTP requests, part of the Spring WebFlux module.
+
 Proxies:
 - Spring Boot uses proxies to handle RESTful web services, allowing for features like transaction management, security, and caching.
 - Proxies intercept method calls and add additional behavior before or after the method execution.
