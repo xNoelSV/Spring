@@ -105,6 +105,10 @@ Each part has his own README.md with the most important topics of the section, t
 ├──20_ManyToMany
 ├──21_SpringData_Sorting&Pagination
 ├──22_SpringData_CustomQueries
-
+├──23_REST_Introduction
+├──24_SpringDataRest&HALExplorer
+├──25_Logging
+├──26_PropertiesConfiguration&Profiles
+├──27_Actuator
 └── README.md
 ```
